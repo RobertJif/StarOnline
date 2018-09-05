@@ -1,0 +1,107 @@
+﻿body {  
+    margin:5px;
+    background-image:url('../image/sd.jpg');
+    background-repeat:repeat;
+    height:auto;
+}
+
+#logoo
+{
+    width:300px;
+    height:150px;
+    margin:auto;
+    margin-top:100px;
+    background-color:Olive;
+    }
+#logoo img
+    {
+    width:50%;
+    height:100%;
+    margin:auto;
+    margin-left:80px;
+    border-radius:150px;
+    }    
+
+#kotakbesar{
+    background-color:Gray;
+    width:800px;
+    height:600px;
+    margin:auto;
+    margin-top:10px;
+    }
+    
+#tablelogin{
+    height:300px;
+    width:360px;
+    margin:auto;
+    background-color:Teal;
+    }
+    
+.tablenya
+    {
+    margin-top:30px;
+    width: 100%;
+    }  
+    
+.bawah
+    {
+    height:60px;
+    background-color:Gray
+    }
+    
+.tengahkiri
+    {
+    width:20px;
+    height:50px;
+    background-color:Blue;
+    }
+    
+.tengahkiri img
+    {
+    width:100%;
+    height:100%;
+    } 
+
+.tengahkanan
+    {
+    width:140px;
+    height:50px;
+    background-color:Blue;
+    }
+    
+.bawahuserkiri
+    {
+    width: 40px;
+    height: 15px;
+    background-color:red;
+    }
+    
+.bawahuserkanan
+    {
+    width: 160px;
+    height: 15px;
+    background-color:red;
+    }
+
+.ataskiri
+    {
+    height:50px;    
+    width:20px;
+    margin:auto;
+    margin-top:40px;
+    background-color:Aqua;
+    
+    }
+
+.ataskiri img {
+    width:100%;
+    height:100%;
+    }
+    
+.ataskanan {
+    margin:auto;
+    background-color:Aqua;
+    height: 50px;
+    width:140px;
+    }
+     
